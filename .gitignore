@@ -1,0 +1,7 @@
+venv
+__pycache__
+logs
+.idea
+test_ip.py
+keys.py
+proxys.txt
