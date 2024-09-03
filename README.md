@@ -1,0 +1,1 @@
+The bot operates by using the REST API of the Bybit exchange, retrieving market data for a specified coin with the help of the Requests library. Based on this market data, it calculates the purchase and subsequent sale price of the asset. The bot then sends an order request to the exchange via the Requests library, executing the buy and sell operations.
